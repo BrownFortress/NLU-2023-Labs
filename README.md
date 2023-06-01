@@ -2,7 +2,7 @@
 
 This repo contains all the laboratory lectures for the Natural Language Understanding course held at the University of Trento.
 <br>
-#### How to prepare the exercises for the exam
+## How to prepare the exercises for the exam
 The exercises must be delivered using the directory `exam/studentID_name_surname`. In this directory, you will find a folder for each lab `/LAB_{1 to 9}`.
 
 From **lab 1 to 8**, the folders contain 3 files namely `main.py`, `functions.py` and `README.md`.
@@ -25,15 +25,15 @@ Furthermore, for each of the three last exercises, you must write a small report
 
 **Last but not least**, the code has to be **well-written** and **documented** with comments. Furthermore, the script has to **run** without bugs otherwise the exercise will not be evaluated. Jupyter notebooks are not accepted.
 <br>
-#### How to deliver the exercises for the exam
+## How to deliver the exercises for the exam
 To submit your work you have to fill out this [Google form](https://forms.gle/EbAnzrHipWJ9Y6f18). The work must be delivered **7 days before** the date of the session exam that you want to attend. You can do multiple submissions as we will check only the last one.
 <br>
 
-#### Folders
+## Folders
 In the repo `labs`, you can find the notebooks for each lab session and in `solutions` you can find the same notebooks with the solutions.
 <br>
 
 The solutions of each lab will be uploaded after the corresponding lab lecture.
 
-#### Acknowledgements
+## Acknowledgements
 The notebooks that you can find here are an adaptation of the labs created by our colleague [Evgeny A. Stepanov](https://github.com/esrel).
