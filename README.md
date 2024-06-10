@@ -26,7 +26,7 @@ Furthermore, for each of the three last exercises, you must write a small report
 **Last but not least**, the code has to be **well-written** and **documented** with comments. Furthermore, the script has to **run** without bugs otherwise the exercise will not be evaluated. Jupyter notebooks are not accepted.
 <br>
 ## How to deliver the exercises for the exam
-To submit your work you have to fill out this [Google form](https://forms.gle/EbAnzrHipWJ9Y6f18). The work must be delivered **7 days before** the date of the session exam that you want to attend. You can do multiple submissions as we will check only the last one.
+To submit your work you have to fill out this [Google form](https://forms.gle/bNuFop96PGxyPJ347). The work must be delivered **7 days before** the date of the session exam that you want to attend. You can do multiple submissions as we will check only the last one.
 <br>
 
 ## Folders
